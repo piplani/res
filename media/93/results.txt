@@ -1,0 +1,3 @@
+Activity score is 36.37484
+Potency is 21.15893
+Efficacy is69.82026
